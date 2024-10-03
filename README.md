@@ -1,4 +1,6 @@
 INTRODUCTION:
+
+
 This approach to the problem statement proposes combining the vector embeddings of the
 frame-based GIFs and text-based questions in the latent space using cross-attention and
 concatenated embeddings to gather context from the image and enable open-vocabulary answering
