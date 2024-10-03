@@ -1,4 +1,4 @@
-These are our datafiles that we have createwthrough various soources and efforts-
+These are our datafiles that we have created through various sources and efforts-
 
 1.updated_final_dataframe_complete is used in creating the question embeddings of the questions.
 It contains-
