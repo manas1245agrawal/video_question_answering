@@ -7,7 +7,7 @@ b.gif_nae
 c. question
 d. answer
 
-2.updated_final_df_with_q_embeddingsis used in model training.
+2.gif_url_embeddings_for_main is used in model training.
 It is pkl file
 It contains the question embeddings and gif_url appropriatly
 
