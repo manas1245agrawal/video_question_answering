@@ -1,4 +1,4 @@
-#INTRODUCTION:
+# INTRODUCTION:
 
 
 This approach to the problem statement proposes combining the vector embeddings of the
