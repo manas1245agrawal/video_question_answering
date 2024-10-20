@@ -14,6 +14,6 @@ Language Understanding]([url](https://arxiv.org/abs/2311.07449)).
 Checkpoint for our simplified approach - [.pth file]([url](https://drive.google.com/drive/folders/1B98OhtwihrwgGPwS3sZEcqywHfuuUbp-?usp=sharing))
 
 ### Cleaned Subset of the data used for training our models : 
-You can find the files here - [Drive]([url](https://drive.google.com/drive/folders/1IxC5W9J7_zfRUnd6E8vjWj-Ge6EpOfis?usp=drive_link))
+You can find the files here - [Drive]([https://drive.google.com/drive/folders/1IxC5W9J7_zfRUnd6E8vjWj-Ge6EpOfis?usp=drive_link])
 
 
