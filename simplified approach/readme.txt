@@ -1,4 +1,4 @@
-# The simplified approach utilizes two datasets:
+### The simplified approach utilizes two datasets:
 
 1. questions_with_gpt2_embeddings_using_gpu_cleaned.pkl that contains question features extracted using distil-gpt2, their respective answers and other metadata.
 
